@@ -1,6 +1,6 @@
 #EXTM3U
 
-#EXTINF:908 logo="http://www.jazzradio.fr/media/radio/thumb/90x90_classic-jazz.png" channel-id="908" tvg-logo="90x90_classic-jazz.png" epg-id="908" group-title="Jazz Radio Fr" , Jazz Radio 01 Classic 
+#EXTINF:001 logo="http://www.jazzradio.fr/media/radio/thumb/90x90_classic-jazz.png" channel-id="001" tvg-logo="90x90_classic-jazz.png" epg-id="001" group-title="Jazz Radio Fr" , Jazz Radio 01 Classic 
 http://ice5.infomaniak.ch:80/jazz-wr01-128.mp3
 
 #EXTINF:911 logo="http://www.jazzradio.fr/media/radio/thumb/90x90_jazz-manouche.png" channel-id="911" tvg-logo="c911.png" epg-id="911" group-title="Jazz Radio Fr" , Jazz Radio 02 Manouche
