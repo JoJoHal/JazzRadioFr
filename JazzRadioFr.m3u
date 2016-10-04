@@ -1,8 +1,5 @@
 #EXTM3U
 
-#EXTINF:-1,By Televiz.net
-http://2.sendvid.com/xujz04xf.mp4
-
 #EXTINF:908 logo="http://www.jazzradio.fr/media/radio/thumb/90x90_classic-jazz.png" channel-id="908" tvg-logo="90x90_classic-jazz.png" epg-id="908" group-title="Jazz Radio Fr" , Jazz Radio 01 Classic 
 http://ice5.infomaniak.ch:80/jazz-wr01-128.mp3
 
@@ -11,88 +8,3 @@ http://ice5.infomaniak.ch:80/jazz-wr02-128.mp3
 
 #EXTINF:611 logo="http://www.jazzradio.fr/media/radio/thumb/90x90_new-orleans.png" channel-id="611" tvg-logo="c611.png" epg-id="611" group-title="Jazz Radio Fr" , Jazz Radio 03 New Orleans
 http://ice5.infomaniak.ch:80/jazz-wr03-128.mp3
-
-#EXTINF:22 logo="http://televiz.net/static/img/logos/c22.png" channel-id="22" tvg-logo="c22.png" epg-id="22" group-title="Jazz Radio Fr" , Jazz Radio 04 Electro Swing
-http://ice5.infomaniak.ch:80/jazz-wr04-128.mp3
-
-#EXTINF:10 logo="http://televiz.net/static/img/logos/c10.png" channel-id="10" tvg-logo="c10.png" epg-id="10" group-title="Hebrew" ,	ערוץ 10 ישראל 
-http://nana10-hdl-il-sw.ctedgecdn.net/Nana10-Live/amlst:hd_,1000,1500,1800,/chunklist.m3u8
-
-#EXTINF:615 logo="http://televiz.net/static/img/logos/c615.png" channel-id="615" tvg-logo="c615.png" epg-id="615" group-title="Hebrew" ,	ספורט מתחלף 3 - חו״ל 
-
-
-#EXTINF:614 logo="http://televiz.net/static/img/logos/c614.png" channel-id="614" tvg-logo="c614.png" epg-id="614" group-title="Hebrew" ,	ספורט מתחלף 2 - חו״ל 
-
-
-#EXTINF:613 logo="http://televiz.net/static/img/logos/c613.png" channel-id="613" tvg-logo="c613.png" epg-id="613" group-title="Hebrew" ,	ספורט מתחלף - חו״ל 
-
-
-#EXTINF:16 logo="http://televiz.net/static/img/logos/c16.png" channel-id="16" tvg-logo="c16.png" epg-id="16" group-title="Hebrew" ,	חדשות 22 
-http://keshethlslive-lh.akamaihd.net/i/c2n_1@195269/index_2000_av-p.m3u8?sd=10&amp;rebase=on
-
-#EXTINF:11 logo="http://televiz.net/static/img/logos/c11.png" channel-id="11" tvg-logo="c11.png" epg-id="11" group-title="Hebrew" ,	הערוץ הראשון 
-rtmp://iba-s.vidnt.com/iba_channel-511MRepeat/channel-511M_4.stream
-
-#EXTINF:621 logo="http://televiz.net/static/img/logos/c621.png" channel-id="621" tvg-logo="c621.png" epg-id="621" group-title="Hebrew" ,	גלצ 
-http://glzlv01.vds-is.bynetcdn.com/glz/glz_aac/playlist.m3u8
-
-#EXTINF:1124 logo="http://televiz.net/static/img/logos/c1124.png" channel-id="1124" tvg-logo="c1124.png" epg-id="1124" group-title="English" ,	Venus 
-http://83.78.191.43:2083/
-
-#EXTINF:334 logo="http://televiz.net/static/img/logos/c334.png" channel-id="334" tvg-logo="c334.png" epg-id="334" group-title="German" ,	RTL 
-http://live01.rtl.lu/channel1/smil:channel1/chunklist_w1271707047_b928000_slltz.m3u8
-
-#EXTINF:1125 logo="http://televiz.net/static/img/logos/c1125.png" channel-id="1125" tvg-logo="c1125.png" epg-id="1125" group-title="English" ,	Playboy TV 
-http://83.78.191.43:2086/
-
-#EXTINF:1131 logo="http://televiz.net/static/img/logos/c1131.png" channel-id="1131" tvg-logo="c1131.png" epg-id="1131" group-title="English" ,	Odisseia 
-http://83.78.191.43:2043/
-
-#EXTINF:982 logo="http://televiz.net/static/img/logos/c982.png" channel-id="982" tvg-logo="c982.png" epg-id="982" group-title="English" ,	Nat Geo Wild 
-http://46.166.162.35:9090/load/b0922f3fa8aa/40.m3u8
-
-#EXTINF:826 logo="http://televiz.net/static/img/logos/c826.png" channel-id="826" tvg-logo="c826.png" epg-id="826" group-title="German" ,	NRW TV  
-http://streaming006.broadcast.tneg.de:1935/nrwtv-new/_definst_/smil:nrw.smil/playlist.m3u8
-
-#EXTINF:825 logo="http://televiz.net/static/img/logos/c825.png" channel-id="825" tvg-logo="c825.png" epg-id="825" group-title="German" ,	NDR 
-http://ndr_fs-lh.akamaihd.net/i/ndrfs_hh@119223/index_1992_av-p.m3u8
-
-#EXTINF:522 logo="http://televiz.net/static/img/logos/c522.png" channel-id="522" tvg-logo="c522.png" epg-id="522" group-title="English" ,	NBC SPORT  
-http://54.157.210.4/server/play/nbcsnxctg/2626000/prog.m3u8
-
-#EXTINF:321 logo="http://televiz.net/static/img/logos/C321.png" channel-id="321" tvg-logo="C321.png" epg-id="321" group-title="English" ,	NBA TV 
-http://46.166.162.35:9090/load/b0922f3fa8aa/47.m3u8
-
-#EXTINF:827 logo="http://televiz.net/static/img/logos/c827.png" channel-id="827" tvg-logo="c827.png" epg-id="827" group-title="German" ,	MÜNCHEN TV 
-http://muenchentv.iptv-playoutcenter.de:1935/muenchentv/muenchentv.stream_3/playlist.m3u8
-
-#EXTINF:105 logo="http://televiz.net/static/img/logos/c105.png" channel-id="105" tvg-logo="c105.png" epg-id="105" group-title="English" ,	History Channel 
-http://158.69.228.46:8081/livetv/C0533/playlist.m3u8
-
-#EXTINF:301 logo="http://televiz.net/static/img/logos/c301.png" channel-id="301" tvg-logo="c301.png" epg-id="301" group-title="English" ,	Eurosport live 
-http://esioslive6-i.akamaihd.net/hls/live/202874/AL_P_ESP1_INTER_ENG/playlist_1800.m3u8
-
-#EXTINF:46 logo="http://televiz.net/static/img/logos/c46.png" channel-id="46" tvg-logo="c46.png" epg-id="46" group-title="English" ,	Discovery Science 
-http://151.237.173.116:4022/udp/239.45.2.55:1234
-
-#EXTINF:1144 logo="http://televiz.net/static/img/logos/c1144.png" channel-id="1144" tvg-logo="c1144.png" epg-id="1144" group-title="English" ,	Discovery ID 
-http://46.166.162.35:9090/load/b0922f3fa8aa/41.m3u8
-
-#EXTINF:1129 logo="http://televiz.net/static/img/logos/c1129.png" channel-id="1129" tvg-logo="c1129.png" epg-id="1129" group-title="English" ,	Discovery Channel 
-http://83.78.191.43:2023/
-
-#EXTINF:45 logo="http://televiz.net/static/img/logos/c45.png" channel-id="45" tvg-logo="c45.png" epg-id="45" group-title="English" ,	Discovery 
-http://91.192.168.248:8000/udp/232.70.0.30:1234?auth=pass:qwe&amp;pf=20160312
-
-#EXTINF:964 logo="http://televiz.net/static/img/logos/c964.png" channel-id="964" tvg-logo="c964.png" epg-id="964" group-title="German" ,	Deutsche Welle 
-http://www.metafilegenerator.de/DWelle/tv/ios/master.m3u8
-
-#EXTINF:342 logo="http://televiz.net/static/img/logos/c342.png" channel-id="342" tvg-logo="c342.png" epg-id="342" group-title="German" ,	DJing HOT 
-http://www.djing.com/tv/05.m3u8?time=1469052220605
-
-#EXTINF:1145 logo="http://televiz.net/static/img/logos/c1145.png" channel-id="1145" tvg-logo="c1145.png" epg-id="1145" group-title="English" ,	Animal Planet 
-http://158.69.228.46:8081/livetv/C0175/playlist.m3u8
-
-#EXTINF:1141 logo="http://televiz.net/static/img/logos/c1141.png" channel-id="1141" tvg-logo="c1141.png" epg-id="1141" group-title="English" ,	Amazing Facts TV 
-http://bglive-w.bitgravity.com/amazingfacts/live/feed01
-
